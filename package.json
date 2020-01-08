@@ -1,0 +1,22 @@
+{
+  "name": "vue-eulerian",
+  "version": "1.1.0",
+  "description": "vuejs plugin for tracking with eulerian",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/tomderudder/vue-eulerian.git"
+  },
+  "keywords": [
+    "eulerian",
+    "tracking",
+    "vue"
+  ],
+  "author": "Tom DE RUDDER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/tomderudder/vue-eulerian/issues"
+  },
+  "homepage": "https://gitlab.com/tomderudder/vue-eulerian#readme"
+}

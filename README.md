@@ -16,7 +16,7 @@ import Vue from 'vue'
 import VueEulerian from 'vue-eulerian'
 
 // VueEulerian
-Vue.use(VueEulerian, { id: 'ac.acadomia.fr' })
+Vue.use(VueEulerian, { id: process.env.EULERIAN_ACCOUNT_ID })
 ```
 
 ## Usage

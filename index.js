@@ -1,5 +1,8 @@
 export default {
-  install(Vue, { id = '' }) {
+  install(Vue, { id = null }) {
+    if (!id) {
+      throw new Error('eulerian id is missing')
+    }
     ;(function(e, a) {
       var i = e.length
       var y = 5381

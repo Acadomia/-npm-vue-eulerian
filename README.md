@@ -1,12 +1,12 @@
-# vue-eulerian
+# -npm-vue-eulerian
 
 ## Install
 
 ```bash
 # with npm
-npm i vue-eulerian
+npm i @acadomia/vue-eulerian
 # with yarn
-yarn add vue-eulerian
+yarn add @acadomia/vue-eulerian
 ```
 
 In file `main.js`

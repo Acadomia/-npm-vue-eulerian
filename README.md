@@ -1,5 +1,7 @@
 # -npm-vue-eulerian
 
+forked from [tomderudder/vue-eulerian](https://gitlab.com/tomderudder/vue-eulerian)
+
 ## Install
 
 ```bash
